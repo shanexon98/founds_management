@@ -12,10 +12,15 @@ Aplicación Flutter para la gestión y suscripción a fondos, con integración o
 - Clonar el repositorio
 - Instalar dependencias
 
+
+
 ```bash
 flutter pub get
 flutter analyze
 ```
+
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 04 25" src="https://github.com/user-attachments/assets/7e025a50-f37f-40d9-90ae-fe1c90e0d5a2" />
+
 
 ## Configuración de credenciales (seguro)
 Las credenciales **NO** se guardan en el código. Se leen mediante `dart-define` en tiempo de ejecución. Los nombres de variables:
