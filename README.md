@@ -19,9 +19,9 @@ flutter pub get
 flutter analyze
 ```
 
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 04 25" src="https://github.com/user-attachments/assets/7e025a50-f37f-40d9-90ae-fe1c90e0d5a2" />
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 04 31" src="https://github.com/user-attachments/assets/8a70cb1d-4c39-440e-81cf-cfc624c8d5c8" />
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 05 05" src="https://github.com/user-attachments/assets/398f2b5b-ae64-4835-b312-837d4c4228bb" />
+<img width="600" height="1200" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 04 25" src="https://github.com/user-attachments/assets/7e025a50-f37f-40d9-90ae-fe1c90e0d5a2" />
+<img width="600" height="1200" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 04 31" src="https://github.com/user-attachments/assets/8a70cb1d-4c39-440e-81cf-cfc624c8d5c8" />
+<img width="600" height="1200" alt="Simulator Screenshot - iPhone 16e - 2026-03-19 at 23 05 05" src="https://github.com/user-attachments/assets/398f2b5b-ae64-4835-b312-837d4c4228bb" />
 
 
 
